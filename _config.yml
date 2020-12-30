@@ -125,7 +125,7 @@ navigation_header:
   url: /blog/
 - title: 카테고리
   url: /categories/
-- title: Search
+- title: 검색
   url: /search/
 
 
