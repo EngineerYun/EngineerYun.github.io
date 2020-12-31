@@ -1,7 +1,7 @@
 ---
 title: 나의 개인 공부 공간
 feature_text: |
-  ## 잔디심는 블로그
+  ## 잔디 농사 블로그
   개인적으로 공부하고 배우는 걸 저장하는 블로그
 feature_image: "/assets/logos/tree.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
