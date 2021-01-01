@@ -118,9 +118,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Projects
-  url: /projects/
-- title: Links
+- title: 프로젝트
+  url: /projects-study/
+- title: 링크모음
   url: /Links/
 - title: 블로그
   url: /blog/
