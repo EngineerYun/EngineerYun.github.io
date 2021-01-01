@@ -15,12 +15,12 @@ aside: true
 
 * Developer Roadmaps  
 
-{% include button.html text="Developer Roadmaps☕️" link="https://roadmap.sh/" color="#0366d6" %}
+{% include button.html text="Developer Roadmaps" link="https://roadmap.sh/" color="#0366d6" %}
 
 * velog  
 
-{% include button.html text="velog#7DA0D0" link="https://velog.io/" color="#0366d6" %}
+{% include button.html text="velog" link="https://velog.io/" color="#0366d6" %}
 
 * 마크다운 사용법
 
-{% include button.html text="마크다운☕️" link="https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/" color="#0366d6" %}
+{% include button.html text="마크다운사용법"  icon="github" link="https://gist.github.com/ihoneymon/652be052a0727ad59601" color="#0366d6" %}
