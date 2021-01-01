@@ -30,6 +30,7 @@ aside: true
 
 ## 사이트
  1. [shields.io](https://shields.io/)  
- 뱃지 사이트
- 2. [Simple icons](https://simpleicons.org/)
+ 뱃지 사이트  
+ 
+ 2. [Simple icons](https://simpleicons.org/)  
  svg 아이콘 사이트  
