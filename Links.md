@@ -8,11 +8,19 @@ aside: true
 ---
 
 ## 공부
-1. 프론트엔드 로드맵(kor)
-{% include button.html text="프론트엔드 로드맵" link="https://github.com/devJang/developer-roadmap" icon="github" %}
-2. Developer Roadmaps
-개발자 로드맵 모음
-{% include button.html text="Developer Roadmaps" link="https://roadmap.sh/" %}
-3. velog
-개발자 블로그 플랫폼
-{% include button.html text="velog" link="https://velog.io/" %}
+
+* 프론트엔드 로드맵(kor)  
+
+{% include button.html text="프론트엔드 로드맵" icon="github" link="https://github.com/devJang/developer-roadmap" color="#0366d6" %}
+
+* Developer Roadmaps  
+
+{% include button.html text="Developer Roadmaps☕️" link="https://roadmap.sh/" color="#0366d6" %}
+
+* velog  
+
+{% include button.html text="velog#7DA0D0" link="https://velog.io/" color="#0366d6" %}
+
+* 마크다운 사용법
+
+{% include button.html text="마크다운☕️" link="https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/" color="#0366d6" %}
