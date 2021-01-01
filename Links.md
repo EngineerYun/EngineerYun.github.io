@@ -23,4 +23,4 @@ aside: true
 
 * 마크다운 사용법
 
-{% include button.html text="마크다운사용법"  icon="github" link="https://gist.github.com/ihoneymon/652be052a0727ad59601" color="#0366d6" %}
+{% include button.html text="마크다운사용법"  icon="ReactiveX" link="https://gist.github.com/ihoneymon/652be052a0727ad59601" color="#0366d6" %}
