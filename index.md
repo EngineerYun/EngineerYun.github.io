@@ -7,7 +7,7 @@ feature_image: "/assets/logos/tree.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 ---
-LV.1 개발자의 IT세계 살아남기  
+<center>LV.1 개발자의 IT세계 살아남기</center>  
 {% include figure.html image="/assets/logos/fighting.svg"  width="300" height="800" %}
 ---
 
