@@ -6,7 +6,9 @@ feature_text: |
 feature_image: "/assets/logos/tree.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
-
+---
+LV.1 개발자의 IT세계 살아남기
+---
 
 ### 해야하는 일
 
@@ -16,6 +18,6 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 4. 꾸준히 다양한 아이디어 생각해보기
 
 ### 완료된 작업
-* 블로그 완성(2020-01-01)
-* Link 카테고리 완성(2020-01-02)
-* projects 카테고리 완성(2020-01-02)
+* ~~블로그 완성(2020-01-01)~~
+* ~~Link 카테고리 완성(2020-01-02)~~
+* ~~projects 카테고리 완성(2020-01-02)~~
