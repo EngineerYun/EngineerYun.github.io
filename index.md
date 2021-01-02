@@ -11,10 +11,9 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 {% include figure.html image="/assets/logos/fighting.svg" caption="레벨업 프로젝트"  width="300" height="800" %}
 ---  
 능력치
----
+---  
 
-
-![통계](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues)  
+![통계](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues&count_private=true)  
 
 [![언어 랭크](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerYun&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 
