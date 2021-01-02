@@ -11,7 +11,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 {% include figure.html image="/assets/logos/fighting.svg" caption="레벨업 프로젝트"  width="300" height="800" %}
 ---
 
-![통계](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues)
+![통계](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues&show_icons=true)
 
 
 ### 해야하는 일
