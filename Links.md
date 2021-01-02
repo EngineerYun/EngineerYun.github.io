@@ -26,11 +26,14 @@ aside: true
  [![Github profile 예쁘게 꾸미기 ](https://img.shields.io/badge/-Github%20%EC%9D%B4%EC%81%98%EA%B2%8C%EA%BE%B8%EB%AF%B8%EA%B8%B0-black?style=for-the-badge&logo=Markdown)](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0){:style="background: none"}
 
 * Shield IO 사용법  
-  [![Shield IO 사용법 ](https://img.shields.io/badge/-Shield%20IO%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=for-the-badge&logo=Markdown)](https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi){:style="background: none"}
+[![Shield IO 사용법 ](https://img.shields.io/badge/-Shield%20IO%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=for-the-badge&logo=Markdown)](https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi){:style="background: none"}
+
+* Github Trending(KOR)  
+{% include button.html text="Github Trending " icon="github" link="https://github.com/trending" color="#0366d6" %}  
 
 ## 사이트
  1. [shields.io](https://shields.io/)  
  뱃지 사이트  
- 
+
  2. [Simple icons](https://simpleicons.org/)  
  svg 아이콘 사이트  
