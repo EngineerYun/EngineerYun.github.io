@@ -10,9 +10,12 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 <center>LV.1 개발자의 IT세계 살아남기</center>  
 {% include figure.html image="/assets/logos/fighting.svg" caption="레벨업 프로젝트"  width="300" height="800" %}
 ---
+---
+능력치
+---
+[![상태](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues,contribs&count_private=true&show_icons=true)  
 
-![통계](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerYun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 해야하는 일
 
