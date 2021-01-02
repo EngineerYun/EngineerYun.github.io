@@ -1,5 +1,5 @@
 ---
-title: 나의 개인 공부 공간
+title: <center>나의 개인 공부 공간</center>  
 feature_text: |
   ## 잔디 농사 블로그
   개인적으로 공부하고 배우는 걸 저장하는 블로그

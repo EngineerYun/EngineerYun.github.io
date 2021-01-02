@@ -1,5 +1,5 @@
 ---
-title: Links
+title: <center>Links</center>
 feature_text: |
     <span style="color:white">개인적으로 모아놓은 유용한 공부 자료, 정보 모음</span>
 feature_image: "/assets/logos/sky_gress.jpg"
