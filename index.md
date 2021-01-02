@@ -8,7 +8,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 ---
 ---
 <center>LV.1 개발자의 IT세계 살아남기</center>  
-{% include figure.html image="/assets/logos/fighting.svg"  width="300" height="800" %}
+{% include figure.html image="/assets/logos/fighting.svg" caption="레벨업 프로젝트"  width="300" height="800" %}
 ---
 
 ### 해야하는 일
