@@ -31,6 +31,9 @@ aside: true
 * Github Trending(KOR)  
 {% include button.html text="Github Trending " icon="github" link="https://github.com/trending" color="#0366d6" %}  
 
+* Github profile꾸미기
+{% include button.html text="Github profile꾸미기 " icon="github" link="https://github.com/anuraghazra/github-readme-stats" color="#0366d6" %}  
+
 ## 사이트
  1. [shields.io](https://shields.io/)  
  뱃지 사이트  
