@@ -35,7 +35,7 @@ aside: true
 {% include button.html text="Github profile꾸미기" link="https://github.com/anuraghazra/github-readme-stats" color="#5EA152" %}  
 
 * swit 사용법  
-{% include button.html text="Github Trending " icon="github" link="https://medium.com/switmyfair/swit/home" color="#5EA152" %}  
+{% include button.html text="swut 사용법"  link="https://medium.com/switmyfair/swit/home" color="#5EA152" %}  
 
 ## 사이트
 1. [shields.io](https://shields.io/)  
