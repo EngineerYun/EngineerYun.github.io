@@ -13,7 +13,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 ### 능력치
 
 
-![통계](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues&count_private=true&theme=dark)  
+<center>![통계](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues&count_private=true&theme=dark)</center>  
 
 [![언어 랭크](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerYun&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 
