@@ -19,7 +19,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 ### 활동
 
-![Yun's github stats](https://github-readme-stats.vercel.app/api?username=EngineerYun&&hide=stars,prs,issues,contribs&count_private=true&show_icons=true?theme=dark)
+![Yun's github stats](https://github-readme-stats.vercel.app/api?username=EngineerYun&&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=dark)
 
 [![언어 랭크](https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerYun&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 
