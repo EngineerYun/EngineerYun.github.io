@@ -7,8 +7,7 @@ excerpt: "개인적으로 모아놓은 유용한 공부 자료, 정보 모음"
 aside: true
 ---
 
-## 사용법
-
+## 정보  
 * 깃허브  
  [![프론트엔드 로드맵(번역본)](https://img.shields.io/badge/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EB%A1%9C%EB%93%9C%EB%A7%B5%20KOR-black?style=flat-square&logo=github)](https://github.com/devJang/developer-roadmap){:style="background: none"}
  [![마크다운 사용법](https://img.shields.io/badge/-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=flat-square&logo=github)](https://gist.github.com/ihoneymon/652be052a0727ad59601){:style="background: none"}
@@ -25,12 +24,9 @@ aside: true
 ## 사이트
 1. [shields.io](https://shields.io/)  
  뱃지 사이트  
-
 2. [Simple icons](https://simpleicons.org/)  
  svg 아이콘 사이트  
-
 3. [SWIT](https://swit.io/)    
   협업 도구툴  
-
 4. [Developer Roadmaps](https://roadmap.sh/)    
   개발자 로드맵  
