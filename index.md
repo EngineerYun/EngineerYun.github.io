@@ -8,9 +8,16 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 ---
 ---
 <center>LV.1 개발자의 IT세계 살아남기</center>  
-{% include figure.html image="/assets/logos/fighting.svg" caption="레벨업 프로젝트"  width="300" height="800" %}
----  
-### 능력치
+{% include figure.html image="/assets/logos/fighting.svg" caption="초보 개발자의 레벨업 프로젝트"  width="300" height="800" %}
+---
+안녕하세요! 블로그에 오신 걸 환영합니다 이 블로그는 완전 초보 of 초보 개발자에서 실력을 키우고 공부 한 내용을 정리 할려고 만든 블로그입니다   
+
+<center><h3>블로그 작성자의 프로필</h3></center>
+---
+[![깃허브 프로필](https://img.shields.io/badge/-Github%20%ED%94%84%EB%A1%9C%ED%95%84-3cb371?style=flat&logo=github&link=https://github.com/EngineerYun){:style="background: none"}
+[![swengineeryun@gmail.com](https://img.shields.io/badge/-swengineeryun@gmail.com-ffffff?style=flat&logo=Gmail){:style="background: none"}
+
+### 활동
 
 ![통계](https://github-readme-stats.vercel.app/api?username=EngineerYun&hide=stars,prs,issues&count_private=true&theme=dark)
 
