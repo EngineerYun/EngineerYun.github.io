@@ -14,7 +14,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 <center><h3>블로그 작성자의 Profile</h3></center>
 ---
-![깃허브 프로필](https://img.shields.io/badge/-Github%20%ED%94%84%EB%A1%9C%ED%95%84-3cb371?style=flat&logo=github&link=https://github.com/EngineerYun){:style="background: none"}
+[![깃허브 프로필](https://img.shields.io/badge/-Github%20%ED%94%84%EB%A1%9C%ED%95%84-3cb371?style=flat&logo=github)](https://github.com/EngineerYun){:style="background: none"}
 ![swengineeryun@gmail.com](https://img.shields.io/badge/-swengineeryun@gmail.com-ffffff?style=flat&logo=Gmail){:style="background: none"}
 
 ### 활동
