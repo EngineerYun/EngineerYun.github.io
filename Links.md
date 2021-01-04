@@ -18,15 +18,11 @@ aside: true
 * velog  
 개발자 블로그 플랫폼  
  [![velog](https://img.shields.io/badge/-velog-black?style=for-the-badge&logo=Markdown)](https://velog.io/){:style="background: none"}
+ [![Github profile 예쁘게 꾸미기 ](https://img.shields.io/badge/-Github%20%EC%9D%B4%EC%81%98%EA%B2%8C%EA%BE%B8%EB%AF%B8%EA%B8%B0-black?style=for-the-badge&logo=Markdown)](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0){:style="background: none"}
+ [![Shield IO 사용법 ](https://img.shields.io/badge/-Shield%20IO%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=for-the-badge&logo=Markdown)](https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi){:style="background: none"}
 
 * 마크다운 사용법  
 {% include button.html text="마크다운사용법"  icon="github" link="https://gist.github.com/ihoneymon/652be052a0727ad59601" color="#5EA152" %}
-
-* github profile 예쁘게 꾸미기  
- [![Github profile 예쁘게 꾸미기 ](https://img.shields.io/badge/-Github%20%EC%9D%B4%EC%81%98%EA%B2%8C%EA%BE%B8%EB%AF%B8%EA%B8%B0-black?style=for-the-badge&logo=Markdown)](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0){:style="background: none"}
-
-* Shield IO 사용법  
-[![Shield IO 사용법 ](https://img.shields.io/badge/-Shield%20IO%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=for-the-badge&logo=Markdown)](https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi){:style="background: none"}
 
 * Github Trending(KOR)  
 {% include button.html text="Github Trending " icon="github" link="https://github.com/trending" color="#5EA152" %}  
@@ -35,7 +31,7 @@ aside: true
 {% include button.html text="Github profile꾸미기" link="https://github.com/anuraghazra/github-readme-stats" color="#5EA152" %}  
 
 * swit 사용법  
-{% include button.html text="swut 사용법"  link="https://medium.com/switmyfair/swit/home" color="#5EA152" %}  
+{% include button.html text="swit 사용법"  link="https://medium.com/switmyfair/swit/home" color="#5EA152" %}  
 
 ## 사이트
 1. [shields.io](https://shields.io/)  
