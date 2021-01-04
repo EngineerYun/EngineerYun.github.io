@@ -12,24 +12,15 @@ aside: true
 * 깃허브  
  [![프론트엔드 로드맵(번역본)](https://img.shields.io/badge/-velog-black?style=for-the-badge&logo=Markdown)](https://github.com/devJang/developer-roadmap){:style="background: none"}
  [![마크다운 사용법](https://img.shields.io/badge/-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=flat-square&logo=github)](https://gist.github.com/ihoneymon/652be052a0727ad59601){:style="background: none"}
-
-* Developer Roadmaps  
-{% include button.html text="Developer Roadmaps" link="https://roadmap.sh/" color="#5EA152" %}
-
+ [![Github Trending(KOR)](https://img.shields.io/badge/-Github%20Trending%20KOR-black?style=flat-square&logo=github)](https://github.com/trending){:style="background: none"}
+ [![Github stats](https://img.shields.io/badge/-Github%20Stats-black?style=flat-square&logo=github)](https://github.com/anuraghazra/github-readme-stats){:style="background: none"}  
+ 
 * Markdown  
  - velog: 개발자 블로그 플랫폼  
  [![velog](https://img.shields.io/badge/-velog-black?style=for-the-badge&logo=Markdown)](https://velog.io/){:style="background: none"}
  [![Github profile 예쁘게 꾸미기 ](https://img.shields.io/badge/-Github%20%EC%9D%B4%EC%81%98%EA%B2%8C%EA%BE%B8%EB%AF%B8%EA%B8%B0-black?style=for-the-badge&logo=Markdown)](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0){:style="background: none"}
  [![Shield IO 사용법 ](https://img.shields.io/badge/-Shield%20IO%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=for-the-badge&logo=Markdown)](https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi){:style="background: none"}
-
-* Github Trending(KOR)  
-{% include button.html text="Github Trending " icon="github" link="https://github.com/trending" color="#5EA152" %}  
-
-* Github profile꾸미기  
-{% include button.html text="Github profile꾸미기" link="https://github.com/anuraghazra/github-readme-stats" color="#5EA152" %}  
-
-* swit 사용법  
-{% include button.html text="swit 사용법"  link="https://medium.com/switmyfair/swit/home" color="#5EA152" %}  
+ [![swit 사용법](https://img.shields.io/badge/-Swit%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=flat-square&logo=Markdown)](https://medium.com/switmyfair/swit/home){:style="background: none"}  
 
 ## 사이트
 1. [shields.io](https://shields.io/)  
@@ -39,4 +30,7 @@ aside: true
  svg 아이콘 사이트  
 
 3. [SWIT](https://swit.io/)    
-  협업 도구툴
+  협업 도구툴  
+
+4. [Developer Roadmaps](https://roadmap.sh/)    
+  개발자 로드맵  
