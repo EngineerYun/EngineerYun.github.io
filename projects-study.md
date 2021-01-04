@@ -2,7 +2,7 @@
 title: <center>Projects</center>
 feature_text: |
     <span style="color:white">개발공간</span>
-feature_image: "/assets/logos/Background_header.png"
+feature_image: "/assets/logos/Background_header_green.png"
 excerpt: "Development"
 aside: true
 ---
