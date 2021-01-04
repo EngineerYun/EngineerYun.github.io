@@ -13,9 +13,9 @@ aside: true
  [![마크다운 사용법](https://img.shields.io/badge/-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=flat-square&logo=github)](https://gist.github.com/ihoneymon/652be052a0727ad59601){:style="background: none"}
  [![Github Trending(KOR)](https://img.shields.io/badge/-Github%20Trending%20KOR-black?style=flat-square&logo=github)](https://github.com/trending){:style="background: none"}
  [![Github stats](https://img.shields.io/badge/-Github%20Stats-black?style=flat-square&logo=github)](https://github.com/anuraghazra/github-readme-stats){:style="background: none"}  
- [![Github 치트시트](https://img.shields.io/badge/-Github%20Stats-black?style=flat-square&logo=github)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md){:style="background: none"}  
+ [![Github 치트시트](https://img.shields.io/badge/-Github%20%EC%B9%98%ED%8A%B8%20%EC%8B%9C%ED%8A%B8-black?style=flat-square&logo=github)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md){:style="background: none"}  
  * Markdown
-   - velog:개발자 블로그 플랫폼
+   - velog:개발자 블로그 플랫폼  
  [![velog](https://img.shields.io/badge/-velog-black?style=flat-square&logo=Markdown)](https://velog.io/){:style="background: none"}
  [![Github profile 예쁘게 꾸미기 ](https://img.shields.io/badge/-Github%20%EC%9D%B4%EC%81%98%EA%B2%8C%EA%BE%B8%EB%AF%B8%EA%B8%B0-black?style=flat-square&logo=Markdown)](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0){:style="background: none"}
  [![Shield IO 사용법 ](https://img.shields.io/badge/-Shield%20IO%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=flat-square&logo=Markdown)](https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi){:style="background: none"}
