@@ -9,20 +9,18 @@ aside: true
 
 ## 사용법
 
-* 프론트엔드 로드맵(kor)  
-{% include button.html text="프론트엔드 로드맵" icon="github" link="https://github.com/devJang/developer-roadmap" color="#5EA152" %}
+* 깃허브  
+ [![프론트엔드 로드맵(번역본)](https://img.shields.io/badge/-velog-black?style=for-the-badge&logo=Markdown)](https://github.com/devJang/developer-roadmap){:style="background: none"}
+ [![마크다운 사용법](https://img.shields.io/badge/-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=flat-square&logo=github)](https://gist.github.com/ihoneymon/652be052a0727ad59601){:style="background: none"}
 
 * Developer Roadmaps  
 {% include button.html text="Developer Roadmaps" link="https://roadmap.sh/" color="#5EA152" %}
 
-* velog  
-개발자 블로그 플랫폼  
+* Markdown  
+ - velog: 개발자 블로그 플랫폼  
  [![velog](https://img.shields.io/badge/-velog-black?style=for-the-badge&logo=Markdown)](https://velog.io/){:style="background: none"}
  [![Github profile 예쁘게 꾸미기 ](https://img.shields.io/badge/-Github%20%EC%9D%B4%EC%81%98%EA%B2%8C%EA%BE%B8%EB%AF%B8%EA%B8%B0-black?style=for-the-badge&logo=Markdown)](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0){:style="background: none"}
  [![Shield IO 사용법 ](https://img.shields.io/badge/-Shield%20IO%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=for-the-badge&logo=Markdown)](https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi){:style="background: none"}
-
-* 마크다운 사용법  
-{% include button.html text="마크다운사용법"  icon="github" link="https://gist.github.com/ihoneymon/652be052a0727ad59601" color="#5EA152" %}
 
 * Github Trending(KOR)  
 {% include button.html text="Github Trending " icon="github" link="https://github.com/trending" color="#5EA152" %}  
