@@ -11,9 +11,10 @@ aside: true
 * Github    
  [![프론트엔드 로드맵(번역본)](https://img.shields.io/badge/-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EB%A1%9C%EB%93%9C%EB%A7%B5%20KOR-black?style=flat-square&logo=github)](https://github.com/devJang/developer-roadmap){:style="background: none"}
  [![마크다운 사용법](https://img.shields.io/badge/-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EC%82%AC%EC%9A%A9%EB%B2%95-black?style=flat-square&logo=github)](https://gist.github.com/ihoneymon/652be052a0727ad59601){:style="background: none"}
- [![Github Trending(KOR)](https://img.shields.io/badge/-Github%20Trending%20KOR-black?style=flat-square&logo=github)](https://github.com/trending){:style="background: none"}
+ [![Github Trending(KOR)](https://img.shields.io/badge/-Github%20Trending%20KOR-black?style=flat-square&logo=github)](https://github.com/trending?spoken_language_code=ko){:style="background: none"}
  [![Github stats](https://img.shields.io/badge/-Github%20Stats-black?style=flat-square&logo=github)](https://github.com/anuraghazra/github-readme-stats){:style="background: none"}  
  [![Github 치트시트](https://img.shields.io/badge/-Github%20%EC%B9%98%ED%8A%B8%20%EC%8B%9C%ED%8A%B8-black?style=flat-square&logo=github)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md){:style="background: none"}  
+ [![Github Trending(EN)](https://img.shields.io/badge/-Github%20Trending%20EN-black?style=flat-square&logo=github)](https://github.com/trending?spoken_language_code=en){:style="background: none"}  
  * Blog  
    - Markdown  
    velog:개발자 블로그 플랫폼    
