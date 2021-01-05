@@ -11,6 +11,6 @@
 {% endif %}
 
 <small class="small  post-meta">
-  {% assign date_format = site.date_format | default: "%d %b %Y" %}
-  {{ categories | append: "&nbsp;&middot;&nbsp;" }}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+  {% assign date_format = site.date_format | default: "%Y/%m/%d" %}
+  {{ categories | append: "&nbsp;&middot;&nbsp;" }}<time datetime="{{ page.date | %Y/%m/%d }}" class="time">{{ page.date | date: date_format }}</time>
 </small>

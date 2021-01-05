@@ -1,9 +1,8 @@
 ---
-title: Looks like you're offline
+title: 오프라인 상태 인 것 같습니다.
 indexing: false
 sitemap: false
 ---
+네트워크 연결이 끊긴 것으로 보이며이 문서는 기기에 존재하지 않습니다.
 
-It appears that you've lost your network connection and this document doesn't exist on your device.
-
-Try either returning to the previous page, using the navigation to find your way back, or restore your network connection.
+이전 페이지로 돌아가거나 탐색을 사용하여 돌아 가는 길을 찾거나 네트워크 연결을 복원하십시오.
