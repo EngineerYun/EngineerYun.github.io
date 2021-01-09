@@ -3,7 +3,7 @@ title: <center>Links</center>
 feature_text: |
   <span style="color:white">개인적으로 찾아보면서 모아놓은 유용한 공부 자료, 정보 모음</span>
 feature_image: "/assets/logos/Background_header_green.png"
-excerpt: "개인적으로 모아놓은 유용한 공부 자료, 정보 모음"
+excerpt: "개인적으로 볼려고 모아놓은 유용한 공부 자료, 정보 모음"
 aside: true
 ---
 
@@ -31,7 +31,38 @@ aside: true
 
 ## 미디어
 
-[![IT 미디어 뉴스 모음](https://img.shields.io/badge/-IT%20%EB%AF%B8%EB%94%94%EC%96%B4-174ea6?style=flat-square&logo=Google%20News)](https://exem.tistory.com/1370){:style="background: none"}
+**국내**
+
+1. [Bloter](http://www.bloter.net/)
+2. [Byline Network](https://byline.network/)
+3. [OUTSTANDING](https://outstanding.kr/)
+4. [techNeedle](https://techneedle.com/)
+5. [ITWORLD](https://www.itworld.co.kr/main/)
+6. [씨넷코리아](https://www.itworld.co.kr/main/)
+7. [뉴스페퍼먼트](https://newspeppermint.com/category/it/)
+8. [꿈꾸는섬](https://happist.com/)
+9. [ZDnetKorea](https://zdnet.co.kr/)
+10. [Platum](https://platum.kr/)
+11. [전자신문](https://news.etnews.com/)
+12. [케이밴치](http://www.kbench.com/)
+13. [CIO Korea](https://www.ciokorea.com/)
+14. [테크수다](https://www.ciokorea.com/)
+15. [벤처스퀘어](https://www.ciokorea.com/)
+
+**해외**
+
+1. [Techcrunch](https://techcrunch.com/)
+2. [recode](https://www.vox.com/recode)
+3. [engadget](https://www.engadget.com/)
+4. [slashgear](https://www.slashgear.com/)
+5. [technewsworld](https://www.technewsworld.com/)
+6. [techrepublic](https://www.techrepublic.com/)
+7. [digiday](https://digiday.com/)
+8. [cnet](https://www.cnet.com/)
+9. [mashable](https://mashable.com/)
+10. [wired](https://www.wired.com/)
+11. [theverge](https://www.theverge.com/)
+12. [thenextweb](http://www.thenextweb.com/)
 
 ## 사이트
 
