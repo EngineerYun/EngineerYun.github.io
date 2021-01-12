@@ -32,10 +32,10 @@ feature_image: "/assets/logos/Background_header_green.png"
 + 아무 값이 없는 box이다
 + div, span등이 속한다
   - `span` : 짧은 text를 위한 태그
-    + div는 가장 통용적인 container
+    + div는 가장 통용적인 container  
   
 ```html
-<div><span>안녕하세요</span></div>  
+<div><span>안녕하세요</span></div>
 ```
 **출력 결과**
 <div><span>안녕하세요</span></div>
