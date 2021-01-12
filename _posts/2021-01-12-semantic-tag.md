@@ -37,9 +37,9 @@ feature_image: "/assets/logos/Background_header_green.png"
 <div><span>안녕하세요</span></div>  
 
 ```
-
 **출력 결과**
-<div><span>안녕하세요</span></div>   
+<div><span>안녕하세요</span></div>
+
 
   
 
