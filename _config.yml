@@ -91,7 +91,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: ko # Set the site language
 title: "잔디농사블로그" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo2.svg" # Site logo, also used in jekyll-seo-tag
 description: "개발 공부 공간" # Site description and default description, also used in jekyll-seo-tag
 url: "https://engineeryun.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
