@@ -2,7 +2,7 @@
 title: <center>Links</center>
 feature_text: |
   <span style="color:white">개인적으로 찾아보면서 모아놓은 유용한 공부 자료, 정보 모음</span>
-feature_image: "/assets/logos/Background_header.png"
+feature_image: "/assets/logos/lion_img.png"
 excerpt: "개인적으로 볼려고 모아놓은 유용한 공부 자료, 정보 모음"
 aside: true
 ---

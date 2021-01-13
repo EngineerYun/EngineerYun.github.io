@@ -2,7 +2,7 @@
 title: Semantic html
 categories:
   - HTML/CSS
-feature_image: "/assets/logos/Background_header.png"
+feature_image: "/assets/logos/lion_img.png"
 ---
 
 ### semantic html
