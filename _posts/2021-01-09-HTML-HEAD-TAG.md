@@ -2,7 +2,7 @@
 title: html head tag 정리
 categories:
   - HTML/CSS
-feature_image: "/assets/logos/Background_header_green.png"
+feature_image: "/assets/logos/Background_header.png"
 ---
 
 ### html head tag

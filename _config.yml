@@ -65,7 +65,7 @@ collections:
     description: "나의 생각과 공부, 아이디어 작업 공간" # The post list page content
     feature_text: |
       <span style="color:white">어서오세요 블로그에 오신 걸 환영합니다</span>
-    feature_image: "/assets/logos/Background_header_green.png"
+    feature_image: "/assets/logos/Background_header.png"
 
 # 6. Jekyll collections settings
 defaults:
