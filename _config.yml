@@ -93,7 +93,7 @@ lang: ko # Set the site language
 title: "잔디농사블로그" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo2.svg" # Site logo, also used in jekyll-seo-tag
 description: "개발 공부 공간" # Site description and default description, also used in jekyll-seo-tag
-url: "https://engineeryun.github.io/" # Site url, also used in jekyll-seo-tag
+url: "http://yubl.tk/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/EngineerYun/EngineerYun.github.io"
 email: "swengineeryun@gmail.com"
@@ -131,7 +131,7 @@ navigation_header:
 
 navigation_footer:
 - title: Yun
-  url: https://engineeryun.github.io/
+  url: http://yubl.tk/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter:
